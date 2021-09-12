@@ -1,0 +1,29 @@
+
+
+
+Setup:
+    Add to startup
+    Add alias for program restart:
+        If someone adds a new image
+
+Design:
+    Perpetually open
+    Named mutex
+    State stored in JSON
+    State:
+        {
+            particles: [...],
+            current_mask:
+        }
+
+    Classes:
+        ContextLoader:
+            Load context
+        Function:
+            Load context
+            Simulation step
+            Save context
+
+
+
+

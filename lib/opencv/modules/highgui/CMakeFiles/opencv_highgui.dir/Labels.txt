@@ -1,0 +1,39 @@
+# Target labels
+ Main
+ opencv_highgui
+ Module
+# Source files and their labels
+/home/kookie/Documents/Projects/c++/lib/opencv/opencv-4.5.3/modules/highgui/include/opencv2/highgui.hpp
+ Main
+ opencv_highgui
+ Module
+/home/kookie/Documents/Projects/c++/lib/opencv/opencv-4.5.3/modules/highgui/include/opencv2/highgui/highgui.hpp
+ Main
+ opencv_highgui
+ Module
+/home/kookie/Documents/Projects/c++/lib/opencv/opencv-4.5.3/modules/highgui/include/opencv2/highgui/highgui_c.h
+ Main
+ opencv_highgui
+ Module
+/home/kookie/Documents/Projects/c++/lib/opencv/opencv-4.5.3/modules/highgui/src/backend.cpp
+ Main
+ opencv_highgui
+ Module
+/home/kookie/Documents/Projects/c++/lib/opencv/opencv-4.5.3/modules/highgui/src/window.cpp
+ Main
+ opencv_highgui
+ Module
+/home/kookie/Documents/Projects/c++/lib/opencv/opencv-4.5.3/modules/highgui/src/roiSelector.cpp
+ Main
+ opencv_highgui
+ Module
+/home/kookie/Documents/Projects/c++/lib/opencv/opencv-4.5.3/modules/highgui/src/window_gtk.cpp
+ Main
+ opencv_highgui
+ Module
+/home/kookie/Documents/Projects/c++/lib/opencv/opencv-4.5.3/modules/highgui/src/precomp.hpp
+ Main
+ opencv_highgui
+ Module
+/home/kookie/Documents/Projects/c++/lib/opencv/opencv/cvconfig.h
+/home/kookie/Documents/Projects/c++/lib/opencv/opencv/opencv2/opencv_modules.hpp
